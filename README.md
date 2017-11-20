@@ -10,3 +10,8 @@ and no (easy) way to install `make` for instance.
 With this image, it is possible to compile binaries directly on your computer.
 And they'll be compatible with your Raspberry Pi ... hopefully :)
 
+> ## Note
+> 
+> Might want to use one of these images actually: (as base)
+> https://docs.resin.io/runtime/resin-base-images/?ref=dockerhub#raspberry-pi-3
+>
