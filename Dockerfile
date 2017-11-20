@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian
+FROM resin/armv7hf-debian
 
 # Install tools to compile C
 RUN apt-get update \
