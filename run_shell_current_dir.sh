@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run --rm -it -v"$(pwd):/workdir" shockn745/raspberry-pi sh
+docker run --rm -it -v"$(pwd):/workdir" floriankempenich/raspberry-pi sh
