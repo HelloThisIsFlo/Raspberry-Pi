@@ -1,3 +1,5 @@
+[![Docker Build Status](https://img.shields.io/docker/build/floriankempenich/raspberry-pi.svg)](https://hub.docker.com/r/floriankempenich/raspberry-pi/)
+
 # Raspberry Pi - Docker image
 
 ## Why? 
