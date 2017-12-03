@@ -1,5 +1,3 @@
-[![Docker Build Status](https://img.shields.io/docker/build/floriankempenich/raspberry-pi.svg)](https://hub.docker.com/r/floriankempenich/raspberry-pi/)
-
 # Raspberry Pi - Docker image
 
 ## Why? 
@@ -14,6 +12,9 @@ And they'll be compatible with your Raspberry Pi ... hopefully :)
 
 > ## Note
 > 
+> The build is not automated w/ Docker Hub because Docker Hub does not support building RaspberryPi images.  
+> Use: `push_image.sh` script instead.
+>
 > Might want to use one of these images actually: (as base)
 > https://docs.resin.io/runtime/resin-base-images/?ref=dockerhub#raspberry-pi-3
 >
